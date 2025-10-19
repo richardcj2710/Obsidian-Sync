@@ -541,5 +541,3 @@ He loves singing as a way to express unspoken feelings, like therapy for releasi
 Even now, we jam with his guitar, creating silly songs that lift my mood. Long's genuine passion inspires me—it's why he's so talented and our friendship endures.
 _________________________________________________________
 *[[Vocab extending]]*
-
-k nâu ?????
