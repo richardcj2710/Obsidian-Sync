@@ -439,7 +439,7 @@ ________________________________________________________________________
     - Connection
     - Busier life
 ________________________________________________________________________
-**What it is:** The important old thing my family has kept is a carved marble relief plaque depicting a Bodhisattva, symbolizing compassion and enlightenment. It's handcrafted with intricate details like a serene pose and lotus motifs, and we display it on our home altar as a decorative and spiritual item, handling it carefully to preserve it.
+**What it is:** The important old thing my family has kept is a carved marble relief plaque depicting a Buddhist, symbolizing compassion and enlightenment. It's handcrafted with intricate details like a serene pose and lotus motifs, and we display it on our home altar as a decorative and spiritual item, handling it carefully to preserve it.
 
 **How/when your family first got this thing:** My family first got this relief plaque three years ago, in 2022, during a meaningful visit to Chùa Linh Ứng, one of the most sacred temples in Da Nang. It was just the three of us—my mom, my sibling, and me—on a spontaneous day trip to explore the temple's stunning architecture and peaceful grounds. We bought it from a small shop near the temple entrance after spending time praying and admiring the giant Lady Buddha statue. My mom chose it because she felt drawn to its calming aura, and it became a special souvenir from that family adventure.
 
