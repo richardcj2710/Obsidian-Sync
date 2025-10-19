@@ -532,14 +532,14 @@ ________________________________________________________________________
 
 ## Describe a person
 
-One of my closest friends who is exceptionally good at music and singing is Long, whom I've known since our secondary school days. We first met in class when we were about 13, bonding over shared interests, but it was his passion for music that really drew us closer. Long is tall and lanky with messy black hair and a perpetual grin, always carrying a notebook for jotting down lyrics or melodies that pop into his head.
+One of my closest friends who's exceptionally good at music and singing is Long, whom I've known since secondary school. We met in class at age 13, bonding over shared interests, but his passion for music truly brought us together. Long is tall and lanky with messy black hair and a constant grin, often carrying a notebook for lyrics and melodies.
 
-What makes Long stand out is his incredible talent for singing—he has this smooth, velvety voice that's both powerful and emotional, able to switch from soft ballads to upbeat tunes effortlessly. He's self-taught, starting with humming songs from Vietnamese folk artists like Trịnh Công Sơn, and later branching into international pop like Ed Sheeran or Adele. He especially loves international songs, drawing inspiration from their diverse styles and lyrics. The first song I heard him perform was "Lemon Tree" by Fool's Garden during a school break—he sang it so captivatingly with his guitar, hitting every note perfectly, that I couldn't resist joining in and singing along with him. That spontaneous duet was the spark that made us best friends from then on.
+What stands out is his smooth, velvety voice—powerful yet emotional, effortlessly switching from ballads to upbeat tunes. Self-taught, he started with Vietnamese folk artists like Trịnh Công Sơn, then embraced international pop like Ed Sheeran or Adele, loving their diverse styles and lyrics. The first song I heard him perform was "Lemon Tree" by Fool's Garden during a school break; he sang it captivatingly with his guitar, and I joined in—that duet sparked our best friendship.
 
-He loves singing because it's his way of expressing feelings he can't always put into words; he once told me that belting out a song after a tough day feels like releasing all the built-up stress, almost like therapy. Back in school, he'd perform at talent shows or assemblies, captivating the audience with covers or his originals about friendship and dreams, and his voice even won him a local singing contest in Da Nang a few years ago.
+He loves singing as a way to express unspoken feelings, like therapy for releasing stress. In school, he'd wow audiences at talent shows with covers and originals on friendship and dreams, even winning a local contest in Da Nang. I recall a school trip where he led a campfire karaoke, his heartfelt ballad mesmerizing everyone and turning the night memorable.
 
-I remember one time during a school trip, he organized an impromptu karaoke session around a campfire, and his rendition of a heartfelt ballad had everyone mesmerized—it's moments like that where his love for singing shines through, turning ordinary gatherings into memorable experiences. Even now, as adults, we still hang out and jam; he'll grab his guitar, and we'll create silly songs together, which always lifts my mood. Long's dedication to music inspires me, and I think his talent comes from genuine passion rather than formal training—it's why he's so good at it and why our friendship has lasted all these years.
-
+Even now, we jam with his guitar, creating silly songs that lift my mood. Long's genuine passion inspires me—it's why he's so talented and our friendship endures.
 _________________________________________________________
 *[[Vocab extending]]*
 
+k nâu ?????
