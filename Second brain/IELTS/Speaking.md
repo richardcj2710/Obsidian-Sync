@@ -530,6 +530,16 @@ ________________________________________________________________________
     - Memories
 
 
+## Describe a person
+
+One of my closest friends who is exceptionally good at music and singing is Long, whom I've known since our secondary school days. We first met in class when we were about 13, bonding over shared interests, but it was his passion for music that really drew us closer. Long is tall and lanky with messy black hair and a perpetual grin, always carrying a notebook for jotting down lyrics or melodies that pop into his head.
+
+What makes Long stand out is his incredible talent for singing—he has this smooth, velvety voice that's both powerful and emotional, able to switch from soft ballads to upbeat tunes effortlessly. He's self-taught, starting with humming songs from Vietnamese folk artists like Trịnh Công Sơn, and later branching into international pop like Ed Sheeran or Adele. He especially loves international songs, drawing inspiration from their diverse styles and lyrics. The first song I heard him perform was "Lemon Tree" by Fool's Garden during a school break—he sang it so captivatingly with his guitar, hitting every note perfectly, that I couldn't resist joining in and singing along with him. That spontaneous duet was the spark that made us best friends from then on.
+
+He loves singing because it's his way of expressing feelings he can't always put into words; he once told me that belting out a song after a tough day feels like releasing all the built-up stress, almost like therapy. Back in school, he'd perform at talent shows or assemblies, captivating the audience with covers or his originals about friendship and dreams, and his voice even won him a local singing contest in Da Nang a few years ago.
+
+I remember one time during a school trip, he organized an impromptu karaoke session around a campfire, and his rendition of a heartfelt ballad had everyone mesmerized—it's moments like that where his love for singing shines through, turning ordinary gatherings into memorable experiences. Even now, as adults, we still hang out and jam; he'll grab his guitar, and we'll create silly songs together, which always lifts my mood. Long's dedication to music inspires me, and I think his talent comes from genuine passion rather than formal training—it's why he's so good at it and why our friendship has lasted all these years.
+
 _________________________________________________________
-[[Vocab extending]]
+*[[Vocab extending]]*
 
