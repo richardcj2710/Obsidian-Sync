@@ -23,11 +23,33 @@ s1 = input()     # kết quả sẽ là một xâu "<string>"
 
 Python str
 ↑↑↑↑↑↑↑↑↑↑
-0123456789
+0123456789 | hoặc
+-8 -7 -6 -5 -4 -3 -2 -1
 
 s = "" # sâu rỗng -> len = 0
 " "    # sâu có độ dài bằng 1 -> len = 1
 """
 
+print(s[1:9:2]) #:2 là bước nhảy
+
+# Nếu bước nhảy là dương: trái -> phải
+# Nếu bước nhảy âm: phải -> trái
+
+print(::-2) # đảo ngược chuỗi
+```
+
+
+# Các hàm
+```
+len() # đếm độ dài hàm
+<str>.count("<entry>,<vị trí đầu trong chuỗi>, <vị trí cuối>")
+	-> 
+index() # same count
+
+
+# replace 
+<str>.replace(str_old, str_new, [count])
+# tách
+<str>.split(str, num)
 
 ```
