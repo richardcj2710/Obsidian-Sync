@@ -52,4 +52,24 @@ index() # same count
 # tách
 <str>.split(str, num)
 
+# map
+a,b = map(int/float, input().split())
+
+# join: nối
+```
+
+# Cách duyệt
+```
+s = 'python'
+# cách 1
+d = 0
+for i in s:
+	print(i)
+	if i = 'o': d += 1
+	print(d)
+
+# cách 2 dùng tốt nhất
+for i in range(len(s)):
+	print(i)
+	if s[i] = 'o' : d += 1
 ```
