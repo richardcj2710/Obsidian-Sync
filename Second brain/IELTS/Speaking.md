@@ -541,7 +541,7 @@ He loves singing as a way to express unspoken feelings, like therapy for releasi
 Even now, we jam with his guitar, creating silly songs that lift my mood. Long's genuine passion inspires me—it's why he's so talented and our friendship endures.
 _________________________________________________________
 ### Important decision
-**What the decision was:** The important decision I made with others' help was choosing to major in Information Technology (IT) at university. This was in my final high school year, when I needed to pick a field for national exams and applications. I was torn between IT and business but chose IT as it matched my interest in coding and AI.
+**What the decision was:** The important decision I made with others' help was choosing to major in Information Technology for university. This was in my final high school year, when I needed to pick a field for national exams and applications. I was torn between IT and business but chose IT as it matched my interest in coding and AI.
 
 **Why you made it:** I made it for a future-proof, exciting career in Vietnam's growing tech sector. With AI and data science rising, it offered creative projects like app building or data analysis, plus job prospects and scholarships abroad. My basic Python experience from school made it a natural, passionate choice over something forced.
 
