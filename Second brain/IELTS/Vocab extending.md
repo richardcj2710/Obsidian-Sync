@@ -4,4 +4,6 @@
 - martyrs: liệt sĩ → 
 
 
-![[Pasted image 20251024214119.png]]
+### Music vocab :
+- consider sth as a/an ____: Xem thứ gì đó như
+- sth as a form of ____: Thứ gì đó dạng như
