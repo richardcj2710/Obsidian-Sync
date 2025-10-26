@@ -541,8 +541,81 @@ He loves singing as a way to express unspoken feelings, like therapy for releasi
 Even now, we jam with his guitar, creating silly songs that lift my mood. Long's genuine passion inspires me—it's why he's so talented and our friendship endures.
 _________________________________________________________
 ### Important decision
+**What the decision was:** The important decision I made with others' help was choosing to major in Information Technology (IT) at university. This was in my final secondary school year around 2023, when I needed to pick a field for national exams and applications. I was torn between IT and business but chose IT as it matched my interest in coding and AI.
+
+**Why you made it:** I made it for a future-proof, exciting career in Vietnam's growing tech sector. With AI and data science rising, it offered creative projects like app building or data analysis, plus job prospects and scholarships abroad. My basic Python experience from school made it a natural, passionate choice over something forced.
+
+**Who helped you:** My best friend Long, known since secondary school, helped greatly. Tech-savvy and sharing hobbies like software exploration and trend discussions, he outlined pros/cons, shared IT career research, and practiced coding challenges with me to boost confidence. His encouragement, recalling our brainstorming fun, was crucial.
+
+**How you felt:** I felt nervous and excited initially, fearing challenges like math courses, but relieved after committing—Long's support made it less overwhelming. Now, I feel grateful and empowered, as it's led to AI projects, and I'm glad for his help in the right choice.
 
 
+- **What the decision was:**
+    - Important decision
+    - Others' help
+    - Choosing major
+    - Information Technology (IT)
+    - University
+    - Final secondary school year
+    - 2024
+    - Pick field
+    - National exams
+    - Applications
+    - Torn between
+    - IT and business
+    - Chose IT
+    - Matched interest
+    - Coding
+    - AI
+- **Why you made it:**
+    - Future-proof career
+    - Exciting
+    - Vietnam's tech sector
+    - AI rising
+    - Data science
+    - Creative projects
+    - App building
+    - Data analysis
+    - Job prospects
+    - Scholarships abroad
+    - Basic Python
+    - School experience
+    - Natural choice
+    - Passionate
+    - Over forced
+- **Who helped you:**
+    - Best friend
+    - Long
+    - Known since secondary school
+    - Helped greatly
+    - Tech-savvy
+    - Sharing hobbies
+    - Software exploration
+    - Trend discussions
+    - Outlined pros/cons
+    - Shared research
+    - IT careers
+    - Practiced coding challenges
+    - Boost confidence
+    - Encouragement
+    - Brainstorming fun
+    - Crucial
+- **How you felt:**
+    - Nervous
+    - Excited
+    - Initially
+    - Fearing challenges
+    - Math courses
+    - Relieved
+    - Committing
+    - Long's support
+    - Less overwhelming
+    - Grateful
+    - Empowered
+    - Led to AI projects
+    - Glad
+    - His help
+    - Right choice
 
 
 
