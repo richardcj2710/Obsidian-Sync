@@ -532,7 +532,7 @@ ________________________________________________________________________
 
 ## Describe a person
 
-One of my closest friends who's exceptionally good at music and singing is Long, whom I've known since secondary school. We met in class at age 13, bonding over shared interests, but his passion for music truly brought us together. Long is tall and lanky with messy black hair and a constant grin, often carrying a notebook for lyrics and melodies.
+One of my closest friends who's exceptionally good at music and singing is Long, whom I've known since secondary school. We met in class at age 13, bonding over shared interests, but his passion for music truly brought us together.
 
 What stands out is his smooth, velvety voice—powerful yet emotional, effortlessly switching from ballads to upbeat tunes. Self-taught, he started with Vietnamese folk artists like Trịnh Công Sơn, then embraced international pop like Ed Sheeran or Adele, loving their diverse styles and lyrics. The first song I heard him perform was "Lemon Tree" by Fool's Garden during a school break; he sang it captivatingly with his guitar, and I joined in—that duet sparked our best friendship.
 
