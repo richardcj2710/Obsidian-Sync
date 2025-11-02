@@ -15,3 +15,8 @@
 
 - spend time      | on N | V_ing
 - geography = geographic information
+- there was this one time that: Có một lần là (quá khứ)
+- remind someone of something
+- compulsory : bắt buộc → compulsory subject : môn học bắt buộc
+- scrape through sth : vừa đủ để qua (qua môn hoặc sth like that)
+- 
