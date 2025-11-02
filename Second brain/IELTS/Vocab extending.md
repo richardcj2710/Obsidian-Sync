@@ -11,4 +11,7 @@
 - well-informed decision
 
 
-- mingle with: giao lưu với 
+- mingle with: giao lưu với
+
+- spend time      | on N | V_ing
+- geography = geographic information
