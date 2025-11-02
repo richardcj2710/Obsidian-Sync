@@ -19,4 +19,7 @@
 - remind someone of something
 - compulsory : bắt buộc → compulsory subject : môn học bắt buộc
 - scrape through sth : vừa đủ để qua (qua môn hoặc sth like that)
-- 
+- tipping point: thời điểm quan trọng
+- take my first foot step in 
+- tech-savvy: người rành công nghệ 
+- familiar/ get used to V-ing/ familiarize sb ưith
