@@ -9,3 +9,6 @@
 - sth as a form of ____: Thứ gì đó dạng như
 
 - well-informed decision
+
+
+- mingle with: giao lưu với 
