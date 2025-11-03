@@ -22,4 +22,6 @@
 - tipping point: thời điểm quan trọng
 - take my first foot step in 
 - tech-savvy: người rành công nghệ 
-- familiar/ get used to V-ing/ familiarize sb ưith
+- familiar/ get used to V-ing/ familiarize sb with sth/ have a habit of: thân thuộc/ làm quen với/ có thói quen dùng cái gì
+- clumsy: lóng ngóng
+- procedures : thủ tục → to perform/ carry out the procedures 
