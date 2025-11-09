@@ -27,3 +27,5 @@
 - procedures : thủ tục → to perform/ carry out the procedures 
 - own somebody a favor : Nợ ân tình
 - appreciation = grateful = gratitude : biết ơn
+- invitation (card): thẻ mời, mời
+- bargain : món hời
