@@ -617,6 +617,11 @@ _________________________________________________________
     - Glad
     - His help
     - Right choice
+_________________________________________________________
+Where: my  own attic - also my bedroom 
+a lot of activities i can do in my attic 
+as a programer -> love
+explain -> have my own universe
 
 
 
