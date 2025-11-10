@@ -187,3 +187,5 @@ Bài 6: Cách mạng tháng Tám năm 1945
     ◦ Đưa nước Việt Nam Dân chủ Cộng hòa trở thành nhà nước công nông đầu tiên ở Đông Nam Á.
 
 --------------------------------------------------------------------------------
+
+Hình thành Hội nghị Yalta 2/19
