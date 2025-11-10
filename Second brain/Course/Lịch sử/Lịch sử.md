@@ -188,4 +188,5 @@ Bài 6: Cách mạng tháng Tám năm 1945
 
 --------------------------------------------------------------------------------
 
-Hình thành Hội nghị Yalta 2/19
+Hình thành Hội nghị Yalta 2/1945 3 nước Liên xô mĩ anh với mong muốn tiêu diệt phát xít đức và chấm dứt chiến tranh thế giớii thứ 2 đã ký kết thành lập Liên hợp quốc, phân chia phạm vi ảnh hưởng theo hai cực Chủ nghĩa tư bản ở các nước Tây Âu và XHCN tại các nước Đông Âu
+Đến đầu những năm 70 của thế kỉ XX đến 1991: Trật tự 2 cực Yalta bắt đầu suy yếu và đi đến sụp đổ
