@@ -621,7 +621,7 @@ _________________________________________________________
 Where: my  own attic - also my bedroom 
 a lot of activities i can do in my attic 
 only bed and desk in that room
-as a programer -> love
+as a programer -> loveASD AS
 explain -> have my own universe
 no one can bother myself
 release my self 
