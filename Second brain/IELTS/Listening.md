@@ -46,12 +46,7 @@ ________________________________________________________________________
 ________________________________________________________________________
 
 ```
-tb = (float(input())*2 + float(input())*2 + float(input()))/5
 
-if tb >= 8:
-	print("gioi")
-elif tb >= 6.5: 
-	print("kha banh")
-else: 
-	print("yeu")
+
+print(f"So ban toi thieu can can mua: {(int(input()) + int(input()) + (int(input()) + 1))//2}")
 ```
