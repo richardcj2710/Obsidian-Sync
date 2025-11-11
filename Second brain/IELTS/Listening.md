@@ -48,5 +48,5 @@ ________________________________________________________________________
 ```
 
 
-print(f"So ban toi thieu can can mua: {(int(input()) + int(input()) + (int(input()) + 1))//2}")
+print(f"So ban toi thieu can can mua: {(int(input())+1)//2 + (int(input())+1)//2 + (int(input())+1)//2}")
 ```
