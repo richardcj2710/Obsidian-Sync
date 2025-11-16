@@ -1,4 +1,3 @@
-/
 Dictate part 4
 
 ## The Eucalyptus Tree In Australia
@@ -44,9 +43,3 @@ The vegetation provides lots of shade, so one species that does find it ideal is
 ________________________________________________________________________
 
 ________________________________________________________________________
-
-i = input()
-if i == i[::-1] :
-	print("YES")
-else:
-	print("NO")
