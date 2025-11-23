@@ -625,6 +625,7 @@ as a programer -> loveASD AS
 explain -> have my own universe
 no one can bother myself
 release my self 
+___
 
 
 _________________________________________________________
