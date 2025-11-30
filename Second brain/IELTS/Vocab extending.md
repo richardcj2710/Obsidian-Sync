@@ -31,4 +31,4 @@
 - bargain : món hời
 - close = attire = garment 
 - pass me down: Truyền đồ lại cho toi (n, v)
-- 
+- illegible: Viết nguệch ngoạc
