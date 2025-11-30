@@ -29,3 +29,6 @@
 - appreciation = grateful = gratitude : biết ơn
 - invitation (card): thẻ mời, mời
 - bargain : món hời
+- close = attire = garment 
+- pass me down: Truyền đồ lại cho toi (n, v)
+- 
