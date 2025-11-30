@@ -32,3 +32,5 @@
 - close = attire = garment 
 - pass me down: Truyền đồ lại cho toi (n, v)
 - illegible: Viết nguệch ngoạc
+- take <it> for granted: Không quan trọng thứ gì
+<htmL
