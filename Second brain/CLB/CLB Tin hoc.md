@@ -62,11 +62,11 @@ Ma trận $A$ cấp $m \times n$ là một bảng gồm $m \cdot n$ số $a_{ij}
 
 ### 2.1. Công thức Tính Định Thức
 
-|Cấp ma trận|Công thức|
-|:--|:--|
-|**Cấp 2**|$A = \begin{pmatrix} a_{11} & a_{12} \ a_{21} & a_{22} \end{pmatrix} \implies \det A = a_{11}a_{22} - a_{21}a_{12}$.|
-|**Cấp 3** (Quy tắc Sarrus)|$\det A = a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{31}a_{22}a_{13} - a_{32}a_{23}a_{11} - a_{33}a_{21}a_{12}$.|
-|**Cấp $n$** (Khai triển Laplace)|Khai triển theo dòng $i$: $\det A = \sum_{j=1}^{n} a_{ij} A_{ij}$.Khai triển theo cột $j$: $\det A = \sum_{i=1}^{n} a_{ij} A_{ij}$.|
+| Cấp ma trận                      | Công thức                                                                                                                               |
+| :------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cấp 2**                        | $A = \begin{pmatrix} a_{11} & a_{12} \ a_{21} & a_{22} \end{pmatrix} \implies \det A = a_{11}a_{22} - a_{21}a_{12}$.                    |
+| **Cấp 3** (Quy tắc Sarrus)       | $\det A = a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{31}a_{22}a_{13} - a_{32}a_{23}a_{11} - a_{33}a_{21}a_{12}$. |
+| **Cấp $n$** (Khai triển Laplace) | Khai triển theo dòng $i$: $\det A = \sum_{j=1}^{n} a_{ij} A_{ij}$.Khai triển theo cột $j$: $\det A = \sum_{i=1}^{n} a_{ij} A_{ij}$.     |
 
 Trong đó, **Phần bù đại số** (Algebraic Complement) $A_{ij}$ được xác định bởi: $$ A_{ij} = (-1)^{i+j} D_{ij} $$ $D_{ij}$ là định thức của ma trận thu được bằng cách xóa dòng $i$ và cột $j$ của $A$.
 
