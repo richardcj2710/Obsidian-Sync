@@ -6,10 +6,6 @@ Quản lý sự kiện/ hậu cần: quản lý bên máy tính với quỹ các
 # **Ban chủ nhiệm**
 
 	Chủ nhiệm: (Hữu)
-		quản lý chung với phân chia các công việc
-		Nhiệt tình 
-
-
 	Phó chủ nhiệm:
 		Tuấn Kiệt 11/6 (Ban học tập : sđt: 
 		Tố Uyên 11/6 (Ban hậu cần)  : sđt:
