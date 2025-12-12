@@ -15,7 +15,11 @@ Quản lý sự kiện/ hậu cần: quản lý bên máy tính với quỹ các
 
 
 ________________________________________________________________________
+<h2>Sinh hoạt clb ngày 13/12</h2>
 
+1. Thông báo thêm các thành viên vào clb/ ban
+2. <strong><em>Thuyết trình định hướng (Hữu)</em></strong>
+3. Thảo luận về chủ đề tiếp theo
 
 ---
 
