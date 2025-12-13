@@ -20,12 +20,8 @@ ________________________________________________________________________
 	<li>Giới thiệu lại bản thân với mọi người</li>
 	<li>Add các thành viên còn thiếu vào trong group, và bầu chọn ban</li>
 	<li>Thuyết trình định hướng</li>
-	<li>Giải đáp thắc mắc & Thảo luận về chủ đe</li>
+	<li>Giải đáp thắc mắc & Thảo luận về chủ đề tiếp theo</li>
 </ol>
-
-1. Thông báo thêm các thành viên vào clb/ ban
-2. <strong><em>Thuyết trình định hướng (Hữu)</em></strong>
-3. Thảo luận về chủ đề tiếp theo
 
 ---
 
