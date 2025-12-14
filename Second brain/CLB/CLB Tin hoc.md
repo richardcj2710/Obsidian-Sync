@@ -23,7 +23,6 @@ ________________________________________________________________________
 	<li>Giải đáp thắc mắc & Thảo luận về chủ đề tiếp theo</li>
 </ol>
 <input type="checkbox"> Todo 1
-
 ---
 ## Danh sách
 Nguyễn Minh Triều 
