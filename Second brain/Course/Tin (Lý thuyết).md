@@ -11,7 +11,7 @@
 	- Ví dụ: <mark>MYCIN</mark> - AI trong lĩnh vực <mark>y tế</mark> bằng quy diễn "IF - THEN" để xác định một số loại vi khuẩn gây nhiểm trùng nặng bằng các câu hỏi có hoặc không
 	- Newell, Simon và Shawn viết một chương trình <mark>GPS (General Problem Solver)</mark> công bố lần đầu tiên <mark>1957</mark> nhằm mô phỏng chuỗi suy nghĩ của con người trong việc giải quyết các bài toán. Tuy nhiên không có tính năng học máy
 - 2016, AlphaGo của Google đã thắng cờ vây khi đấu với con người.
-- Hiện nay nhiều AI ddax và đang được đưa vào cuộc sống và trở nên quen thuộc
+- Hiện nay nhiều AI đã và đang được đưa vào cuộc sống và trở nên quen thuộc
 ### Khả năng đặc trưng của AI:
 1. Khả năng học
 2. Khả năng hiểu ngôn ngữ
