@@ -116,3 +116,7 @@ Hệ có dạng $AX = O$ (cột tự do bằng 0).
 3. Nếu $A$ là ma trận vuông, hệ có nghiệm không tầm thường khi và chỉ khi $\det A = 0$.
 
 **Mối liên hệ giữa hệ tổng quát và hệ thuần nhất**: Nghiệm tổng quát của hệ tổng quát $AX = B$ là tổng của một nghiệm riêng $X_r$ của nó với nghiệm tổng quát $X_{tn}$ của hệ thuần nhất tương ứng $AX = O$: $$ X_{tq} = X_r + X_{tn} $$
+
+
+___
+[[Toán]]

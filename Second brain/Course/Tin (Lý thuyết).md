@@ -21,4 +21,6 @@
 ### Một số lĩnh vực nghiên cứu phát triển AI
 1. Học máy
 	- Là khả năng học từ dữ liệu thu được trong quá trình hoạt động để cải thiện trong khả năng.
-	- 
+
+___
+Link with: [[Bồi dưỡng]]
