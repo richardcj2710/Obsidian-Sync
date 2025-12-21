@@ -626,7 +626,13 @@ explain -> have my own universe
 no one can bother myself
 release my self 
 ___
+The old person I love talking to is my grandfather, who is now 82 years old. He lives in a quiet rural village in Nghệ An province, in a traditional stilt house surrounded by rice fields and a small vegetable garden he still tends every day.
 
+His life has been incredibly interesting—he grew up in a poor farming family during the French colonial era, then as a young man volunteered to fight in the Vietnamese army during the 1978–1979 war against the Pol Pot regime in Cambodia. He served on the border, witnessing intense battles and helping liberate Cambodian people from the Khmer Rouge. After returning home, he became a farmer and community leader, raising a big family while contributing to local rebuilding efforts. Now retired, he enjoys gardening, fishing in nearby rivers, and sharing war stories with villagers.
+
+What I like to talk about with him most is his experiences in the war—how they survived harsh conditions, acts of bravery, and the importance of peace today. He also tells traditional Nghệ An folk tales and life lessons about hard work and kindness.
+
+I enjoy talking to him so much because his stories are full of courage, humility, and wisdom—they make me proud of our history and teach me to appreciate peace and family. Despite the tough past, he always speaks with gentle humor and optimism, leaving every conversation inspiring and heartwarming. Visiting him in Nghệ An feels like stepping into living history.
 
 _________________________________________________________
 [[Vocab extending]]
