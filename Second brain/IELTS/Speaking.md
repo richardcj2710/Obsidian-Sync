@@ -636,6 +636,18 @@ I enjoy talking to him so much because his stories are full of courage, humility
 
 ---
 
+The shop I really enjoy visiting is **FPT Shop**, a popular electronics and tech store chain in Vietnam. There's one branch near my university in Da Nang that I go to most often.
+
+The shop's name is FPT Shop, and it's located in a busy shopping area with bright lighting, clean displays, and sections for laptops, phones, accessories, and gaming gear.
+
+I visit it quite often—probably once or twice a month, sometimes more when new gadgets are released or when I need something for my programming projects.
+
+I like going there for several reasons. As an IT student and programmer, I love browsing the latest laptops, keyboards, monitors, and components—I can touch and test them in person, which helps me decide what to buy or what to save up for. The staff are usually knowledgeable and don't pressure you, so I can ask technical questions comfortably. Plus, they often have good student discounts and promotions. It's not just shopping; it feels exciting, like being surrounded by tools that fuel my passion for coding and tech. Whenever I leave, I feel motivated, even if I don't buy anything. For me, FPT Shop is more than a store—it's like a playground for tech lovers!
+
+
+
+FPT Shop
+
 _________________________________________________________
 [[Vocab extending]]
 
