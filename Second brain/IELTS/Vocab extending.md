@@ -34,3 +34,4 @@
 - take <it> for granted: Không quan trọng thứ gì
 - health-conscious 
 - a token of appreciation 
+- counterfeit
