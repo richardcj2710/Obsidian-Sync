@@ -12,7 +12,6 @@
 
 
 - mingle with: giao lưu với
-
 - spend time      | on N | V_ing
 - geography = geographic information
 - there was this one time that: Có một lần là (quá khứ)

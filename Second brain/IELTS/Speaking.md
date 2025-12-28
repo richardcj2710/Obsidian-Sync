@@ -635,8 +635,6 @@ What I like to talk about with him most is his experiences in the war—how they
 I enjoy talking to him so much because his stories are full of courage, humility, and wisdom—they make me proud of our history and teach me to appreciate peace and family. Despite the tough past, he always speaks with gentle humor and optimism, leaving every conversation inspiring and heartwarming. Visiting him in Nghệ An feels like stepping into living history.
 
 ---
-Jordan shoes in my birthday
-
 
 _________________________________________________________
 [[Vocab extending]]
