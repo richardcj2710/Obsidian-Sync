@@ -636,7 +636,7 @@ I enjoy talking to him so much because his stories are full of courage, humility
 
 ---
 
-The shop I really enjoy visiting is **FPT Shop**, a popular electronics and tech store chain in Vietnam. There's one branch near my university in Da Nang that I go to most often.
+The shop I really enjoy visiting is **FPT Shop**, a popular electronics and tech store chain in Vietnam. There's one branch near my university of Da Nang that I go to most often.
 
 The shop's name is FPT Shop, and it's located in a busy shopping area with bright lighting, clean displays, and sections for laptops, phones, accessories, and gaming gear.
 
