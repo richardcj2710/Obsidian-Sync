@@ -646,6 +646,18 @@ I like going there for several reasons. As an IT student and programmer, I love 
 
 
 
+
+**Do people in your country go to the shopping mall frequently?** Yes, especially in big cities like Da Nang and Hanoi. Young people and families go to shopping malls almost every weekend because they have air-conditioning, cinemas, food courts, and many brands in one place. It's not just shopping—it's a way to hang out, eat, and relax, particularly when the weather is hot or rainy.
+
+**How have people’s shopping habits changed in recent decades?** In the past, people mainly bought things at local street markets or small family shops, paying cash and bargaining. Now, with more money and internet, habits have shifted a lot: online shopping on Shopee, Lazada, and Tiki is super popular, especially after COVID. People buy clothes, electronics, and even groceries online for convenience and discounts. Malls are still popular, but many prefer quick delivery to their door.
+
+**Do you think shops and shopping malls will disappear in the future?** No, I don’t think they will disappear completely. Online shopping is growing fast, but physical shops and malls will still exist because people enjoy trying clothes, testing gadgets (like me with laptops), and the social experience. Malls might change—maybe become more entertainment-focused with cafes, VR zones, or events—but they won’t vanish.
+
+**What are the differences between shopping in street markets and big shopping malls?** Street markets are cheaper, you can bargain, and the atmosphere is lively with fresh food and local products, but they can be crowded, hot, and less clean. Big shopping malls are comfortable with AC, fixed prices, branded items, and extra facilities like cinemas, but everything is more expensive and feels less personal.
+
+**What are the differences in the shopping habits of different age groups?** Young people (like me and my friends) shop mostly online for fashion, gadgets, and deals, and we visit malls for fun. Middle-aged parents prefer supermarkets or malls for groceries and family needs, still using cash sometimes. Elderly people like my grandparents usually go to traditional street markets for fresh food, bargaining, and chatting with familiar sellers—they don’t trust online shopping much.
+
+**What are the differences between shopping online and in-store?** Online is convenient: shop anytime from home, huge selection, easy price comparison, and fast delivery, but you can’t touch or try items, and sometimes sizes or quality disappoint. In-store lets you see, feel, and try everything immediately, get advice from staff, and take things home right away, but it takes time, costs more for travel, and has fewer choices. For me as a programmer, I do both—I buy accessories online but test laptops in-store first.
 FPT Shop
 
 _________________________________________________________
