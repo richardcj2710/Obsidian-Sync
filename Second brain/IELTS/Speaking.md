@@ -660,6 +660,18 @@ I like going there for several reasons. As an IT student and programmer, I love 
 **What are the differences between shopping online and in-store?** Online is convenient: shop anytime from home, huge selection, easy price comparison, and fast delivery, but you can’t touch or try items, and sometimes sizes or quality disappoint. In-store lets you see, feel, and try everything immediately, get advice from staff, and take things home right away, but it takes time, costs more for travel, and has fewer choices. For me as a programmer, I do both—I buy accessories online but test laptops in-store first.
 FPT Shop
 
+
+
+My favorite film is **Spider-Man: Into the Spider-Verse**. It’s an animated superhero movie released in 2018.
+
+I first watched it at home on Netflix, around late 2019 or early 2020. I was alone one weekend evening, turned off the lights, put on headphones, and streamed it on my projector—it felt like having a private cinema experience.
+
+It’s an animated action-adventure film with a groundbreaking style that looks exactly like a comic book come to life, using bold lines, vibrant colors, dots, and different art techniques for each character from parallel universes.
+
+The story centers on Miles Morales, a Brooklyn teenager who gets bitten by a radioactive spider and gains powers. A collider accident opens portals to other dimensions, bringing in alternate Spider-People—like an older Peter Parker, Spider-Gwen, and even Spider-Ham the cartoon pig. Together they must stop Kingpin from destroying the multiverse, while Miles learns to embrace his role as the new Spider-Man.
+
+This is my favorite film for several reasons. First, the animation is absolutely stunning—I’d never seen anything like it before, and it feels fresh and creative even years later. Second, the story is inspiring: it’s about finding your own path, believing in yourself even when you feel like an outsider, and that anyone can wear the mask. As someone who sometimes feels pressure to follow a “normal” career path, Miles’ journey really resonates with me. The soundtrack is amazing too—full of hip-hop songs that match the energy perfectly. Plus, it’s funny, emotional, and exciting all at once. Every time I rewatch it at home, I notice new details and feel motivated. For me, _Into the Spider-Verse_ isn’t just a superhero movie—it’s one of the best films ever made.
+
 _________________________________________________________
 [[Vocab extending]]
 
