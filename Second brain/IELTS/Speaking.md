@@ -602,21 +602,21 @@ _________________________________________________________
     - Brainstorming fun
     - Crucial
 - **How you felt:**
-    - Nervous
-    - Excited
-    - Initially
-    - Fearing challenges
-    - Math courses
-    - Relieved
-    - Committing
-    - Long's support
-    - Less overwhelming
-    - Grateful
-    - Empowered
-    - Led to AI projects
-    - Glad
-    - His help
-    - Right choice
+    - [x] Nervous
+    - [ ] Excited
+    - [ ] Initially
+    - [ ] Fearing challenges
+    - [ ] Math courses
+    - [ ] Relieved
+    - [ ] Committing
+    - [ ] Long's support
+    - [ ] Less overwhelming
+    - [ ] Grateful
+    - [ ] Empowered
+    - [ ] Led to AI projects
+    - [ ] Glad
+    - [ ] His help
+    - [ ] Right choice
 _________________________________________________________
 Where: my  own attic - also my bedroom 
 a lot of activities i can do in my attic 
@@ -660,8 +660,7 @@ I like going there for several reasons. As an IT student and programmer, I love 
 **What are the differences between shopping online and in-store?** Online is convenient: shop anytime from home, huge selection, easy price comparison, and fast delivery, but you can’t touch or try items, and sometimes sizes or quality disappoint. In-store lets you see, feel, and try everything immediately, get advice from staff, and take things home right away, but it takes time, costs more for travel, and has fewer choices. For me as a programmer, I do both—I buy accessories online but test laptops in-store first.
 FPT Shop
 
-
-
+___
 My favorite film is **Spider-Man: Into the Spider-Verse**. It’s an animated superhero movie released in 2018.
 
 I first watched it at home on Netflix, around late 2019 or early 2020. I was alone one weekend evening, turned off the lights, put on headphones, and streamed it on my projector—it felt like having a private cinema experience.
