@@ -1,5 +1,8 @@
 
 
+
+
+
 **ISP (nhà cung cấp mạng) -> Modem (bộ điều chế tín hiệu điện từ) -> ...**
 
 	LAN -> Switch (Bộ chuyển mạch)
