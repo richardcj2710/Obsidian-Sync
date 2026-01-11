@@ -680,7 +680,20 @@ ___
 - [ ] **Is there a difference between where you meet friends now and where you used to meet them in the past?** Definitely. When I was in secondary school, we mostly met at school, the school canteen, or each other’s houses. Now as university students, we meet more at cafés, malls, or online through Discord or Zalo calls because everyone is busier and lives in different areas.
 - [ ] **Why are some places suitable for meeting while others are not?** Some places are suitable because they’re relaxed, comfortable, and not too noisy – like quiet cafés where we can talk freely. Places like crowded markets or very loud bars are not ideal because it’s hard to have a proper conversation. Also, good Wi-Fi and affordable prices make a big difference for students like us.
 - [ ] **Would you invite friends to your home?** Yes, absolutely. I often invite close friends like Long over for meals, to study together, or just to hang out and play games. My family is welcoming, so it feels natural. Home is comfortable and private, perfect for long chats without spending money.
+---
+Disappointed movies
+
+One movie that really disappointed me was Star Wars Episode VIII, released in 2017.
+
+I watched it at home on Disney+ in 2020, during the pandemic when I was rewatching the whole Star Wars saga. I was super excited because The Force Awakens had brought back the magic, and I thought this one would continue the story perfectly.
+
+It’s a sci-fi action-adventure film, part of the main Star Wars sequel trilogy. The plot follows Rey discovering more about her powers, Luke Skywalker’s return, and the Resistance fighting against the First Order. There are big space battles, lightsaber fights, and new characters.
+
+But honestly, it left me feeling very disappointed. I had high expectations because I love the classic Star Wars themes of hope, redemption, and the Force. Instead, I felt the movie disrespected some beloved characters (especially Luke’s arc), made strange choices with the plot, and seemed to ignore a lot of setup from the previous film. The humor felt forced in many scenes, and some parts were just confusing or unnecessary.
+
+The main reason it disappointed me so much was the emotional letdown. I grew up with Star Wars, and it meant a lot to me as a story about family, courage, and good vs evil. When the movie didn’t deliver on that, I felt kind of sad and even a little angry afterward. I still like some parts of it (the visuals and music are amazing), but overall, it’s the one Star Wars movie I almost never rewatch. It taught me that sometimes even big-budget films with huge hype can fall short if they don’t respect what fans truly care about.
 _________________________________________________________
+
 [[Vocab extending]]
 
 
