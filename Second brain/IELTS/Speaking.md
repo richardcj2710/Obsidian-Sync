@@ -685,7 +685,7 @@ Disappointed movies
 
 One movie that really disappointed me was Star Wars Episode VIII, released in 2017.
 
-I watched it at home on Disney+ in 2020, during the pandemic when I was rewatching the whole Star Wars saga. I was super excited because The Force Awakens had brought back the magic, and I thought this one would continue the story perfectly.
+I watched it at home on a movie's website in 2020, during the pandemic when I was rewatching the whole Star Wars saga. I was super excited because The Force Awakens had brought back the magic, and I thought this one would continue the story perfectly.
 
 It’s a sci-fi action-adventure film, part of the main Star Wars sequel trilogy. The plot follows Rey discovering more about her powers, Luke Skywalker’s return, and the Resistance fighting against the First Order. There are big space battles, lightsaber fights, and new characters.
 
