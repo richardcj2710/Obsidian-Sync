@@ -696,6 +696,15 @@ But honestly, it left me feeling very disappointed. I had high expectations beca
 
 The main reason it disappointed me so much was the emotional letdown. I grew up with Star Wars, and it meant a lot to me as a story about family, courage, and good vs evil. When the movie didn’t deliver on that, I felt kind of sad and even a little angry afterward. I still like some parts of it (the visuals and music are amazing), but overall, it’s the one Star Wars movie I almost never rewatch. It taught me that sometimes even big-budget films with huge hype can fall short if they don’t respect what fans truly care about.
 
+---
+
+I’d like to talk about a time when my close high school friend, Khanh Tien, asked for my opinion on her plan to study abroad in Australia. This happened last year, in 2025, when she was in her final year of high school.
+
+Khanh Tien turned to me for advice because she trusted me and knew I had researched a lot about international education, scholarships, costs, and student life abroad. She was really torn: going to Australia meant very high tuition fees, living expenses, and being far from her family for years, so she wanted my honest perspective before making this big decision.
+
+I advised her to go for it. I explained that studying abroad would give her global exposure, better career opportunities, and the chance to experience a new culture and way of thinking. I also suggested she apply for scholarships early to reduce the costs and keep in touch with her family through regular video calls. I told her that personal growth often comes from stepping outside our comfort zone, and this could be a once-in-a-lifetime chance.
+
+When she asked for my opinion, I felt honored and valued because it showed how much she trusted my judgment. At the same time, I felt a little nervous and responsible—I didn’t want to give bad advice. But when I saw her face light up and she decided to apply, I was over the moon. It made me feel delighted and really happy to have helped her. Afterwards, she thanked me many times, and our friendship became even stronger. She eventually got accepted with a partial scholarship, so I’m very glad I encouraged her.
 
 
 _________________________________________________________
