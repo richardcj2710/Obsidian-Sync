@@ -726,6 +726,19 @@ _________________________________________________________
 - determination
 - team spirit
 - family bond
+---
+My perfect job would be a **Senior AI Engineer**.
+
+I heard about this kind of role from the internet and also from my uncle, who is a senior software developer with more than 15 years of experience. He often tells me stories about his colleagues who moved into AI roles and how rewarding it is.
+
+I could work either overseas (for example in Singapore, Australia, the US or Canada) or in Vietnam, as long as the conditions are ideal: high salary (around 4,000–10,000 USD per month depending on location), good work-life balance (flexible hours, remote options, no excessive overtime), modern office or fully remote setup, health insurance, learning opportunities, and a supportive team.
+
+To get this job, I need to learn a lot: advanced mathematics, deep learning theory, advanced algorithms, modern coding languages and frameworks, system design, and research skills (reading papers, implementing from scratch). I also need strong projects, open-source contributions, or publications to stand out.
+
+I think it is my perfect job because it combines everything I love: solving very difficult problems, building intelligent systems that can change the world, constant learning (the field never stops evolving), high earning potential, and the freedom to choose where I live and how I work. Whether I stay in Vietnam to contribute to local tech or move abroad for better infrastructure, the job gives me intellectual excitement, financial security, and enough personal time for family and hobbies. For me, that balance of challenge, impact, and freedom is exactly what “perfect” means.
+
+---
+
 
 [[Vocab extending]]
 
