@@ -706,8 +706,26 @@ I advised her to go for it. I explained that studying abroad would give her glob
 
 When she asked for my opinion, I felt honored and valued because it showed how much she trusted my judgment. At the same time, I felt a little nervous and responsible—I didn’t want to give bad advice. But when I saw her face light up and she decided to apply, I was over the moon. It made me feel delighted and really happy to have helped her. Afterwards, she thanked me many times, and our friendship became even stronger. She eventually got accepted with a partial scholarship, so I’m very glad I encouraged her.
 
+---
+One time I felt really proud of a family member was last year, in 2025, when my younger brother won a tug-of-war competition at his secondary school sports day.
 
+It happened during the school’s annual sports festival in his secondary school. My brother was in grade 9 at the time, and his class team entered the tug-of-war event against stronger classes from higher grades. He’s not the biggest or strongest kid, but he’s very determined and always trains hard for things he cares about.
+
+The final match was intense—the rope was pulling back and forth for what felt like forever, and everyone was cheering loudly. My brother was right in the middle of his team, gripping the rope tightly, shouting encouragement to his classmates, and refusing to give up even when they were losing ground. In the last few seconds, his team gave one big pull and won! The whole school erupted, and my brother’s face lit up with the biggest smile.
+
+I felt incredibly proud watching him from the stands. Seeing how much effort he put in, how he motivated his teammates, and how he didn’t give up made me admire his resilience and team spirit. As his older brother, I’ve always tried to be a good role model for him, so watching him succeed through hard work and never giving up felt like he was making me proud in return. After the match, he ran over to hug our mom and me, and I told him, “You did amazing—I’m so proud of you.” That moment really strengthened our bond, and even now when I think about it, I smile because it showed me how strong and determined he’s becoming. It was one of those simple but meaningful family moments that I’ll always remember.
 _________________________________________________________
+
+- younger brother
+- proud
+- tug-of-war
+- secondary school
+- 2025
+- sports day
+- won
+- determination
+- team spirit
+- family bond
 
 [[Vocab extending]]
 
