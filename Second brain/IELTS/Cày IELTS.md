@@ -1,4 +1,4 @@
-**herbivorous** :  tiền tố herb (thảo mộc) -> ăn cỏ
+herbivorous :  tiền tố herb (thảo mộc) -> ăn cỏ
 venture: hậu tố của adventure -> mạo hiểm
 resemble = look like/ be similar to/ share features with -> tương đồng, có điểm giống nhau
 sediment -> trầm tích, cặn lắng | material at the bottom/particles |
