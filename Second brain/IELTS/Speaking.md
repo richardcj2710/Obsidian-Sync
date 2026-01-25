@@ -739,7 +739,17 @@ I think it is my perfect job because it combines everything I love: solving very
 
 ---
 
+One thing I really can't live without is **music** – especially listening to songs every single day.
 
+I can't imagine a day without music. Whether I'm studying, coding, walking alone, or feeling stressed, I always have earphones in or play songs in the background. It's like music is my constant companion.
+
+I usually listen to a mix of genres: international indie and pop (like Ed Sheeran, Billie Eilish, or Japanese city pop), Vietnamese artists (Trịnh Công Sơn's old songs, or newer ones like Sơn Tùng M-TP), and sometimes lo-fi beats when I'm focusing on work. I use Spotify playlists I've built over years – one for calm coding sessions, one for motivation, one for sad moods.
+
+Why I can't live without it: Music helps me manage emotions. When I'm anxious or overthinking (which happens a lot as a programmer), a good song can calm me down in minutes. It also boosts my creativity – many times I get ideas for code or solutions while listening. Plus, it makes boring or tiring moments (like commuting or waiting) feel much better. Without music, my days would feel empty, quiet, and harder to get through.
+
+I remember one time during a tough exam period, I was so burned out that I couldn't concentrate. Then I played a favorite playlist and suddenly felt recharged – it was like music gave me energy I didn't have. That's why, for me, music is not just entertainment; it's essential for my mental health and daily happiness.
+
+---
 [[Vocab extending]]
 
 
