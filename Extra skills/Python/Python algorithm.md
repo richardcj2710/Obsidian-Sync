@@ -1,6 +1,7 @@
 ### Sorts:
 
 1. Bubble sort ($O(n^2)$):
+---
 	```
 	def bubble_sort(arr):
     n = len(arr)
@@ -10,6 +11,8 @@
                 arr[j], arr[j + 1] = arr[j + 1], arr[j]
     return arr
 	```
+---
 2. Insertion Sort($O(n^2)$):
+	
 3. Quick Sort ($O(n log(n)$):
 4. Merge Sort ($O(n log(n)$):
