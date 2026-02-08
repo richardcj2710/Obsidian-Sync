@@ -84,3 +84,45 @@
 - **Tính ổn định (Stability):** Nó giữ nguyên thứ tự tương đối của các phần tử bằng nhau. Điều này rất quan trọng khi bạn sắp xếp các đối tượng phức tạp (ví dụ: sắp xếp danh sách sinh viên theo tên, sau đó theo tuổi).
 - **Nhược điểm:** Nó cần thêm bộ nhớ để tạo các mảng tạm thời trong quá trình trộn, nên độ phức tạp không gian là $O(n)$.
 ---
+### Searchs
+##### 1. Tìm kiếm Tuyến tính (Linear Search)
+
+Đây là cách thô sơ nhất: Đi qua từng phần tử từ đầu đến cuối cho đến khi tìm thấy thứ mình cần.
+
+- **Điều kiện:** Dữ liệu không cần sắp xếp.
+- **Độ phức tạp:** $O(n)$.
+- **Khi nào dùng:** Khi mảng nhỏ hoặc dữ liệu chưa được sắp xếp.
+```
+def linear_search(arr, target):
+    for i in range(len(arr)):
+        if arr[i] == target:
+            return i  # Trả về vị trí tìm thấy
+    return -1  # Không tìm thấy
+```
+---
+##### 2. Tìm kiếm Nhị phân (Binary Search)
+
+Đây là thuật toán "siêu nhanh". Thay vì xem từng cái, nó luôn kiểm tra phần tử ở giữa:
+
+1. Nếu phần tử giữa là mục tiêu $\rightarrow$ Xong.
+2. Nếu mục tiêu nhỏ hơn $\rightarrow$ Bỏ qua nửa bên phải, tìm ở nửa bên trái.
+3. Nếu mục tiêu lớn hơn $\rightarrow$ Bỏ qua nửa bên trái, tìm ở nửa bên phải.
+
+- **Điều kiện bắt buộc:** **Dữ liệu đã được sắp xếp.**
+- **Độ phức tạp:** $O(\log n)$. (Cực nhanh, ví dụ với 1 tỷ phần tử, bạn chỉ mất tối đa ~30 lần kiểm tra).
+```
+def binary_search(arr, target):
+    low = 0
+    high = len(arr) - 1
+
+    while low <= high:
+        mid = (low + high) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            low = mid + 1
+        else:
+            high = mid - 1
+    return -1
+```
+---
