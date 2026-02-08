@@ -1,19 +1,19 @@
 ### Sorts:
 ---
 ##### 1. Bubble sort ($O(n^2)$):
-Hoạt động bằng cách hoán đổi liên tiếp các phần tử liền kề nếu chúng sai thứ tự.
+	Hoạt động bằng cách hoán đổi liên tiếp các phần tử liền kề nếu chúng sai thứ tự.
 	```
-		def bubble_sort(arr):
-		    n = len(arr)
-		    for i in range(n):
-		        for j in range(0, n - i - 1):
-		            if arr[j] > arr[j + 1]:
-		                arr[j], arr[j + 1] = arr[j + 1], arr[j]
-		    return arr
+	def bubble_sort(arr):
+	    n = len(arr)
+	    for i in range(n):
+	        for j in range(0, n - i - 1):
+	            if arr[j] > arr[j + 1]:
+	                arr[j], arr[j + 1] = arr[j + 1], arr[j]
+	    return arr
 	```
 ---
 ##### 2. Insertion Sort($O(n^2)$):
-Tương tự như cách bạn sắp xếp quân bài trên tay: lấy một phần tử và chèn nó vào đúng vị trí trong phần đã sắp xếp.
+	Tương tự như cách bạn sắp xếp quân bài trên tay: lấy một phần tử và chèn nó vào đúng vị trí trong phần đã sắp xếp.
 	```
 	def insertion_sort(arr):
 	    for i in range(1, len(arr)):
@@ -27,7 +27,7 @@ Tương tự như cách bạn sắp xếp quân bài trên tay: lấy một ph�
 	```
 ---
 ##### 3. Quick Sort ($O(n log(n)$):
-Chọn một điểm chốt (pivot) và chia mảng thành hai phần: nhỏ hơn pivot và lớn hơn pivot.
+	Chọn một điểm chốt (pivot) và chia mảng thành hai phần: nhỏ hơn pivot và lớn hơn pivot.
 	```
 	def quick_sort(arr):
 	    if len(arr) <= 1:
@@ -40,7 +40,7 @@ Chọn một điểm chốt (pivot) và chia mảng thành hai phần: nhỏ hơ
 	```
 ---
 ##### 4. Merge Sort ($O(n log(n)$):
-Để cài đặt thuật toán này, chúng ta cần hai phần:
+	Để cài đặt thuật toán này, chúng ta cần hai phần:
 	1. **Hàm chia:** Chia mảng thành các mảng con cho đến khi mỗi mảng chỉ còn 1 phần tử.
 	2. **Hàm trộn (Merge):** So sánh và gộp các mảng con lại theo thứ tự.
 	```
