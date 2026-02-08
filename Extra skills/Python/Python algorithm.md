@@ -1,6 +1,6 @@
 ### Sorts:
 ---
-1. Bubble sort ($O(n^2)$):
+##### 1. Bubble sort ($O(n^2)$):
 	```
 	def bubble_sort(arr):
 	    n = len(arr)
@@ -11,7 +11,7 @@
 	    return arr
 	```
 ---
-2. Insertion Sort($O(n^2)$):
+##### 2. Insertion Sort($O(n^2)$):
 	```
 	def insertion_sort(arr):
 	    for i in range(1, len(arr)):
@@ -24,7 +24,7 @@
 	    return arr
 	```
 ---
-3. Quick Sort ($O(n log(n)$):
+##### 3. Quick Sort ($O(n log(n)$):
 	```
 	def quick_sort(arr):
 	    if len(arr) <= 1:
@@ -36,7 +36,7 @@
 	    return quick_sort(left) + middle + quick_sort(right)
 	```
 ---
-4. Merge Sort ($O(n log(n)$):
+##### 4. Merge Sort ($O(n log(n)$):
 	```
 	def merge_sort(arr):
 	    # Điều kiện dừng: Nếu mảng chỉ còn 1 phần tử hoặc trống
