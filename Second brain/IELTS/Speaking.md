@@ -750,15 +750,14 @@ Why I can't live without it: Music helps me manage emotions. When I'm anxious or
 I remember one time during a tough exam period, I was so burned out that I couldn't concentrate. Then I played a favorite playlist and suddenly felt recharged – it was like music gave me energy I didn't have. That's why, for me, music is not just entertainment; it's essential for my mental health and daily happiness.
 
 
-One occasion when I was not allowed to use my mobile phone was about two years ago during my final high school exam.
+One occasion/time when I was not allowed to use my mobile phone was about two years ago during my final high school exam.
 
-It happened in the examination room at my school in Ho Chi Minh City. It was the most important exam of the year – the national high school graduation exam – so the rules were extremely strict.
+It happened in the examination room at my school in Danang City. It was the most important exam of the year – the national high school graduation exam – so the rules were extremely strict.
 
 Basically, right before we entered the room, the exam supervisors told us to put all our phones, smartwatches, and any electronic devices into a plastic bag. They collected the bags, sealed them, and kept them outside the classroom. We weren’t even allowed to keep our phones switched off in our pockets – they had to be completely handed over. The main reason was to prevent cheating. Some students had tried to use phones to look up answers or receive messages in previous years, so the Ministry of Education made the no-phone rule very serious. Anyone caught with a phone during the exam would automatically fail the whole subject.
 
 At first, I felt quite nervous and a bit annoyed because I was so used to checking my phone for the time or just having it nearby for comfort. But after about ten minutes, I actually felt quite calm and focused. Without the phone, there were no distractions at all – no temptation to check messages or scroll. I could only concentrate on the question paper in front of me. Strangely, I think I performed better in that exam than in some of the practice tests I did at home with my phone nearby.
 
-Looking back, even though I didn’t like the rule at the moment, I now think it was actually helpful. It forced me to stay 100% focused, and I felt proud of myself afterwards for getting through such an important exam without any digital distractions.
 ---
 [[Vocab extending]]
 
