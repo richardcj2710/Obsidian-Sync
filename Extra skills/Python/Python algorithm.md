@@ -1,7 +1,7 @@
 ### <font color="#ff0000">Sorts:</font>
 ---
 ##### 1. Bubble sort ($O(n^2)$):
-Hoạt động bằng cách hoán đổi liên tiếp các phần tử liền kề nếu chúng sai *thứ* tự.
+Hoạt động bằng cách hoán đổi liên tiếp các phần tử liền kề nếu chúng sai thứ tự.
 ```
 def bubble_sort(arr):
     n = len(arr)
