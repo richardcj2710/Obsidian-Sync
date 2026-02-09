@@ -175,5 +175,5 @@ def binary_search(arr, target):
 	for res in results:
 	    print_board(res, n)
 	```
-	
+---
 2. 
