@@ -129,9 +129,51 @@ def binary_search(arr, target):
 ---
 ### Recursion
 1. Backtracking (Quay lui):
+
 	1. Thuật toán tìm kiếm lời giải bằng cách xây dựng dần dần các ứng viên cho lời giải và loại bỏ các ứng viên không thỏa mãn ngay khi xác định được chúng không thể dẫn đến một lời giải hợp lệ.
 	2. **Chọn:** Thử một lựa chọn.
 	3. **Kiểm tra:** Lựa chọn này có vi phạm ràng buộc nào không?
 	4. **Đi tiếp (Đệ quy):** Nếu ổn, lặp lại bước 1 cho lựa chọn tiếp theo.
 	5. **Quay lui:** Nếu không ổn hoặc đã thử hết các nhánh, quay lại bước trước đó để thử lựa chọn khác.
+
+	VD: Bài toán N-Queens (8 quân Hậu)
+	```
+	def is_safe(board, row, col, n):
+    # Kiểm tra cột này ở các hàng phía trước
+    for i in range(row):
+        if board[i] == col or \
+           board[i] - i == col - row or \
+           board[i] + i == col + row:
+            return False
+    return True
+
+def solve_queens(n, row, board, results):
+    # Nếu đã đặt xong hậu ở tất cả các hàng
+    if row == n:
+        results.append(board[:])
+        return
+
+    for col in range(n):
+        if is_safe(board, row, col, n):
+            board[row] = col          # Bước chọn
+            solve_queens(n, row + 1, board, results)  # Đi tiếp
+            # Bước quay lui thực chất nằm ở việc vòng lặp tiếp tục 
+            # và ghi đè giá trị board[row] ở lần lặp sau.
+
+def print_board(result, n):
+    for row in result:
+        line = ["Q" if i == row else "." for i in range(n)]
+        print(" ".join(line))
+    print("\n")
+
+# Chạy thử với bàn cờ 4x4
+n = 4
+results = []
+solve_queens(n, 0, [0]*n, results)
+
+print(f"Tìm thấy {len(results)} cách xếp:")
+for res in results:
+    print_board(res, n)
+	```
+	
 2. 
