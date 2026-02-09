@@ -2,7 +2,7 @@
 ---
 ##### 1. Bubble sort ($O(n^2)$):
 Hoạt động bằng cách *hoán đổi liên tiếp* các *phần tử liền kề* nếu chúng sai thứ tự.
-```python
+```python title:Bubble_Sort.py
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
@@ -14,7 +14,7 @@ def bubble_sort(arr):
 ---
 ##### 2. Insertion Sort($O(n^2)$):
 Tương tự như cách bạn sắp xếp quân bài trên tay: lấy một phần tử và chèn nó vào đúng vị trí trong phần đã sắp xếp.
-```python title Insertion Sort
+```python title:Insertion_Sort.py
 def insertion_sort(arr):
     for i in range(1, len(arr)):
         key = arr[i]
@@ -28,7 +28,7 @@ def insertion_sort(arr):
 ---
 ##### 3. Quick Sort ($O(n log(n)$):
 Chọn một điểm chốt (pivot) và chia mảng thành hai phần: nhỏ hơn pivot và lớn hơn pivot.
-```
+```python title:Quick_Sort.py
 def quick_sort(arr):
     if len(arr) <= 1:
         return arr
@@ -44,7 +44,7 @@ def quick_sort(arr):
 Để cài đặt thuật toán này, chúng ta cần hai phần:
 	1. **Hàm chia:** Chia mảng thành các mảng con cho đến khi mỗi mảng chỉ còn 1 phần tử.
 	2. **Hàm trộn (Merge):** So sánh và gộp các mảng con lại theo thứ tự.
-```
+```python title:merge_sort.py
 	def merge_sort(arr):
 	    # Điều kiện dừng: Nếu mảng chỉ còn 1 phần tử hoặc trống
 	    if len(arr) <= 1:
@@ -93,7 +93,7 @@ def quick_sort(arr):
 - **Điều kiện:** Dữ liệu không cần sắp xếp.
 - **Độ phức tạp:** $O(n)$.
 - **Khi nào dùng:** Khi mảng nhỏ hoặc dữ liệu chưa được sắp xếp.
-```
+``` python title:Linear_search.py
 def linear_search(arr, target):
     for i in range(len(arr)):
         if arr[i] == target:
@@ -111,7 +111,7 @@ def linear_search(arr, target):
 
 - **Điều kiện bắt buộc:** **Dữ liệu đã được sắp xếp.**
 - **Độ phức tạp:** $O(\log n)$. (Cực nhanh, ví dụ với 1 tỷ phần tử, bạn chỉ mất tối đa ~30 lần kiểm tra).
-```
+``` python title:Binary_search.py 
 def binary_search(arr, target):
     low = 0
     high = len(arr) - 1
@@ -127,7 +127,7 @@ def binary_search(arr, target):
     return -1
 ```
 ---
-### Recursion
+### <font color="#ff0000">Recursion</font>
 1. Backtracking (Quay lui):
 
 	1. Thuật toán tìm kiếm lời giải bằng cách xây dựng dần dần các ứng viên cho lời giải và loại bỏ các ứng viên không thỏa mãn ngay khi xác định được chúng không thể dẫn đến một lời giải hợp lệ.
@@ -137,7 +137,7 @@ def binary_search(arr, target):
 	5. **Quay lui:** Nếu không ổn hoặc đã thử hết các nhánh, quay lại bước trước đó để thử lựa chọn khác.
 
 	VD: Bài toán N-Queens (8 quân Hậu)
-	```
+	``` python title:example_N-Queens.py
 	def is_safe(board, row, col, n):
     # Kiểm tra cột này ở các hàng phía trước
     for i in range(row):
