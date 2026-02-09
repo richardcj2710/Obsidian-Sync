@@ -147,33 +147,33 @@ def binary_search(arr, target):
             return False
     return True
 
-def solve_queens(n, row, board, results):
-    # Nếu đã đặt xong hậu ở tất cả các hàng
-    if row == n:
-        results.append(board[:])
-        return
-
-    for col in range(n):
-        if is_safe(board, row, col, n):
-            board[row] = col          # Bước chọn
-            solve_queens(n, row + 1, board, results)  # Đi tiếp
-            # Bước quay lui thực chất nằm ở việc vòng lặp tiếp tục 
-            # và ghi đè giá trị board[row] ở lần lặp sau.
-
-def print_board(result, n):
-    for row in result:
-        line = ["Q" if i == row else "." for i in range(n)]
-        print(" ".join(line))
-    print("\n")
-
-# Chạy thử với bàn cờ 4x4
-n = 4
-results = []
-solve_queens(n, 0, [0]*n, results)
-
-print(f"Tìm thấy {len(results)} cách xếp:")
-for res in results:
-    print_board(res, n)
+	def solve_queens(n, row, board, results):
+	    # Nếu đã đặt xong hậu ở tất cả các hàng
+	    if row == n:
+	        results.append(board[:])
+	        return
+	
+	    for col in range(n):
+	        if is_safe(board, row, col, n):
+	            board[row] = col          # Bước chọn
+	            solve_queens(n, row + 1, board, results)  # Đi tiếp
+	            # Bước quay lui thực chất nằm ở việc vòng lặp tiếp tục 
+	            # và ghi đè giá trị board[row] ở lần lặp sau.
+	
+	def print_board(result, n):
+	    for row in result:
+	        line = ["Q" if i == row else "." for i in range(n)]
+	        print(" ".join(line))
+	    print("\n")
+	
+	# Chạy thử với bàn cờ 4x4
+	n = 4
+	results = []
+	solve_queens(n, 0, [0]*n, results)
+	
+	print(f"Tìm thấy {len(results)} cách xếp:")
+	for res in results:
+	    print_board(res, n)
 	```
 	
 2. 
