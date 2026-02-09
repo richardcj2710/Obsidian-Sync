@@ -1,7 +1,7 @@
 ### <font color="#ff0000">Sorts:</font>
 ---
 ##### 1. Bubble sort ($O(n^2)$):
-Hoạt động bằng cách hoán đổi liên tiếp các phần tử liền kề nếu chúng sai thứ tự.
+Hoạt động bằng cách *hoán đổi liên tiếp* các *phần tử liền kề* nếu chúng sai thứ tự.
 ```
 def bubble_sort(arr):
     n = len(arr)
@@ -127,3 +127,11 @@ def binary_search(arr, target):
     return -1
 ```
 ---
+### Recursion
+1. Backtracking (Quay lui):
+	1. Thuật toán tìm kiếm lời giải bằng cách xây dựng dần dần các ứng viên cho lời giải và loại bỏ các ứng viên không thỏa mãn ngay khi xác định được chúng không thể dẫn đến một lời giải hợp lệ.
+	2. **Chọn:** Thử một lựa chọn.
+	3. **Kiểm tra:** Lựa chọn này có vi phạm ràng buộc nào không?
+	4. **Đi tiếp (Đệ quy):** Nếu ổn, lặp lại bước 1 cho lựa chọn tiếp theo.
+	5. **Quay lui:** Nếu không ổn hoặc đã thử hết các nhánh, quay lại bước trước đó để thử lựa chọn khác.
+2. 
