@@ -137,6 +137,7 @@ def binary_search(arr, target):
 	5. **Quay lui:** Nếu không ổn hoặc đã thử hết các nhánh, quay lại bước trước đó để thử lựa chọn khác.
 
 	VD: Bài toán N-Queens (8 quân Hậu)
+	
 	``` python title:example_N-Queens.py
 	def is_safe(board, row, col, n):
     # Kiểm tra cột này ở các hàng phía trước
