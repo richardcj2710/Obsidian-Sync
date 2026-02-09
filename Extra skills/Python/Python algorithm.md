@@ -237,7 +237,5 @@ def fib_tab(n):
         dp[i] = dp[i-1] + dp[i-2] # Điền vào bảng
     
     return dp[n]
-
-print(fib_tab(50))
-	```
-
+ print(fib_tab(50))
+ ```
