@@ -2,7 +2,7 @@
 ---
 ##### 1. Bubble sort ($O(n^2)$):
 Hoạt động bằng cách *hoán đổi liên tiếp* các *phần tử liền kề* nếu chúng sai thứ tự.
-```
+```python
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
@@ -14,7 +14,7 @@ def bubble_sort(arr):
 ---
 ##### 2. Insertion Sort($O(n^2)$):
 Tương tự như cách bạn sắp xếp quân bài trên tay: lấy một phần tử và chèn nó vào đúng vị trí trong phần đã sắp xếp.
-```
+```python title Insertion Sort
 def insertion_sort(arr):
     for i in range(1, len(arr)):
         key = arr[i]
