@@ -237,5 +237,3 @@ def binary_search(arr, target):
 		return dp[n]
 	print(fib_tab(50))
 	```
-
-![[Pasted image 20260209211820.png]]![[Pasted image 20260209211826.png]]
