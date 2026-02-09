@@ -1,7 +1,7 @@
-### Sorts:
+### <font color="#ff0000">Sorts:</font>
 ---
 ##### 1. Bubble sort ($O(n^2)$):
-Hoạt động bằng cách hoán đổi liên tiếp các phần tử liền kề nếu chúng sai thứ tự.
+Hoạt động bằng cách hoán đổi liên tiếp các phần tử liền kề nếu chúng sai *thứ* tự.
 ```
 def bubble_sort(arr):
     n = len(arr)
@@ -85,7 +85,7 @@ def quick_sort(arr):
 - **Tính ổn định (Stability):** Nó giữ nguyên thứ tự tương đối của các phần tử bằng nhau. Điều này rất quan trọng khi bạn sắp xếp các đối tượng phức tạp (ví dụ: sắp xếp danh sách sinh viên theo tên, sau đó theo tuổi).
 - **Nhược điểm:** Nó cần thêm bộ nhớ để tạo các mảng tạm thời trong quá trình trộn, nên độ phức tạp không gian là $O(n)$.
 ---
-### Searchs
+### <font color="#ff0000">Searchs</font>
 ##### 1. Tìm kiếm Tuyến tính (Linear Search)
 
 Đây là cách thô sơ nhất: Đi qua từng phần tử từ đầu đến cuối cho đến khi tìm thấy thứ mình cần.
