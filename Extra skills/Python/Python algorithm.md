@@ -178,3 +178,24 @@ def binary_search(arr, target):
 	```
 ---
 2. Đệ Quy
+	**Recursion (Đệ quy)** chính là "linh hồn" của Backtracking và nhiều thuật toán phức tạp khác như Merge Sort hay Quick Sort.
+	Nói một cách đơn giản nhất: **Đệ quy là việc một hàm tự gọi chính nó.**
+	Để không bị rơi vào vòng lặp vô tận (khiến máy tính bị treo do "Stack Overflow"), một hàm đệ quy luôn cần 2 thành phần:
+	1. **Điểm dừng (Base Case):** Điều kiện để hàm dừng lại, không gọi chính nó nữa.
+	2. **Phần đệ quy (Recursive Case):** Gọi lại hàm với một giá trị mới (thường là nhỏ hơn hoặc đơn giản hơn giá trị ban đầu) để dần tiến về điểm dừng.
+	
+	VD: Tính giai thừa:
+	```python title:factorial.py
+	def factorial(n):
+		#1. Stop point
+		if n == 1:
+			return 1
+		
+		#2. Recursion
+		return n * factorial(n - 1)
+		
+	print(factorial(int(input())))
+	
+	# > 1 x 2 x 3 x 4 x 5 = 120
+	```
+---
