@@ -225,7 +225,7 @@ def binary_search(arr, target):
 	``` 
 	Giải pháp 2: Tabulation (Lập bảng - Từ dưới lên)
 	Thay vì dùng đệ quy, ta dùng vòng lặp và điền kết quả vào một cái bảng (mảng).
-	```python title:fib_tab.py
+	```python title:fibtab.py
 def fib_tab(n):
     if n <= 2: return 1
     # Khởi tạo bảng với các giá trị mặc định
@@ -239,4 +239,5 @@ def fib_tab(n):
     return dp[n]
 
 print(fib_tab(50))
-```
+	```
+
