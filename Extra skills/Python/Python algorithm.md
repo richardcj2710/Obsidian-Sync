@@ -27,7 +27,7 @@ def insertion_sort(arr):
 ```
 ---
 ##### 3. Quick Sort ($O(n log(n)$):
-Chọn một điểm chốt (pivot) và chia mảng thành hai phần: nhỏ hơn pivot và lớn hơn pivot.
+Chọn một điểm chốt (pivot) và chia mảng thành hai phần: nhỏ hơn **pivot** và lớn hơn **pivot**.
 ```python title:Quick_Sort.py
 def quick_sort(arr):
     if len(arr) <= 1:
@@ -177,4 +177,4 @@ def binary_search(arr, target):
 	    print_board(res, n)
 	```
 ---
-2. 
+2. Đệ Quy
