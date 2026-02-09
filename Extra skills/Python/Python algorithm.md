@@ -205,4 +205,33 @@ def binary_search(arr, target):
 	- Bài toán con trùng lặp: Bạn thấy mình đang tính đi tính lại cùng một kết quả (ví dụ như trong Fibonacci).
 	- Cấu trúc con tối ưu: Lời giải tối ưu của bài toán lớn có thể tìm được từ lời giải tối ưu của các bài toán con.
 2. Đệ Quy mẫu:
-	Lấy ví dụ tính Fibonacci. Nếu dùng đệ quy thuần tuý để tính 
+	Lấy ví dụ tính Fibonacci. Nếu dùng đệ quy thuần tuý để tính $fib(5)$
+	- Phải tính $fib(4)$ và $fib(3)$
+	- Trong $fib(4)$, lại phải tính $fib(3)$ và $fib(2)$
+	- Vấn đề: $fib(3)$ bị tính đi tính lại 2 lần. Với số lớn, máy sẽ treo !
+	
+	Giải pháp 1: Memoization (Ghi nhớ -  Từ trên xuống)
+	Chúng ta dùng một "dictionary" hoặc "array" để lưu kết quả đã tính.
+	```python title:fibmemo.py
+	def fib_memo(n, memo={}):
+		if n in memo: return memo[n] # Nếu đã có trong sổ tay, lấy ra luôn
+		if n <= 2: return 1
+		
+		# Tính và lưu vào sổ tay trước khi trả về
+		memo[n] = fib_memo(n - 1, memo) + fib_memo(n - 2, memo)
+		return memo[n]
+		
+	print(fib_memo[50]) # Chạy cực nhanh thay vì mất vài năm !
+	``` 
+	Giải pháp 2: Tabulation (Lập bảng - Từ dưới lên)
+	Thay vì dùng đệ quy, ta dùng vòng lặp và điền kết quả vào một cái bảng (mảng).
+	```python title:fib_tab.py
+	def fib_tab(n):
+		if n <= 2: return 1
+		#
+		dp = [0] * (n + 1)
+		dp[1] = 1
+		dp[2] = 1
+		
+		for i in range(3, n + 1)
+	```
