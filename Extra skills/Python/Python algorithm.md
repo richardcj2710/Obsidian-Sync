@@ -226,12 +226,17 @@ def binary_search(arr, target):
 	Giải pháp 2: Tabulation (Lập bảng - Từ dưới lên)
 	Thay vì dùng đệ quy, ta dùng vòng lặp và điền kết quả vào một cái bảng (mảng).
 	```python title:fib_tab.py
-	def fib_tab(n):
-		if n <= 2: return 1
-		#
-		dp = [0] * (n + 1)
-		dp[1] = 1
-		dp[2] = 1
-		
-		for i in range(3, n + 1)
-	```
+def fib_tab(n):
+    if n <= 2: return 1
+    # Khởi tạo bảng với các giá trị mặc định
+    dp = [0] * (n + 1)
+    dp[1] = 1
+    dp[2] = 1
+    
+    for i in range(3, n + 1):
+        dp[i] = dp[i-1] + dp[i-2] # Điền vào bảng
+    
+    return dp[n]
+
+print(fib_tab(50))
+```
