@@ -199,3 +199,10 @@ def binary_search(arr, target):
 	# > 1 x 2 x 3 x 4 x 5 = 120
 	```
 ---
+### <font color="#ff0000">Quy hoạch động (Dynamic Programming - DP)</font>
+1. Bản bất của Quy hoạch động:
+	DP được dùng khi bài toán có hai đặc điểm:
+	- Bài toán con trùng lặp: Bạn thấy mình đang tính đi tính lại cùng một kết quả (ví dụ như trong Fibonacci).
+	- Cấu trúc con tối ưu: Lời giải tối ưu của bài toán lớn có thể tìm được từ lời giải tối ưu của các bài toán con.
+2. Đệ Quy mẫu:
+	Lấy ví dụ tính Fibonacci. Nếu dùng đệ quy thuần tuý để tính 
