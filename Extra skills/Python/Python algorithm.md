@@ -264,24 +264,22 @@ def greedy_coin_change(amount, coins):
 Đây là hai cách cơ bản để "đi dạo" qua tất cả các đỉnh của một cấu trúc dữ liệu mạng lưới hoặc cây thư mục.
 
 - **BFS (Breadth-First Search - Tìm kiếm theo chiều rộng):** Đi theo từng lớp (như sóng nước lan tỏa). Dùng để tìm đường đi ngắn nhất trong đồ thị không trọng số.
-    
-- **DFS (Depth-First Search - Tìm kiếm theo chiều sâu):** Đi sâu hết mức có thể vào một nhánh trước khi quay lui. Rất hợp với các bài toán mê cung hoặc kiểm tra tính liên thông.
 ```python title:BFS(Tìm kiếm theo chiều rộng).py
 from collections import deque
 
 def bfs(graph, start_node):
-	visited = set()
-	queue = deque([start_node])
+	visited = set()       # Lưu các nút đã đi qua
+	queue = deque([start_node])    # Hàng đợi để duyệt (LIFO)
 	visited.add(start_node)
 	
 	result = []
 	
 	while queue:
-	
+		# Lấy nút ở đầu hàng đợi ra
 		current = queue.popleft()
 		result.append(current)
 		
-		# Duyệt các hàng xóm của nút htaw
+		# Duyệt các hàng xóm của nút thắt hiện tại
 		for neighbor in graph[current]:
 			if neighbor not in visited:
 				visited.add(neighbor)
@@ -289,5 +287,24 @@ def bfs(graph, start_node):
 				
 	return result
 ```
+    
+- **DFS (Depth-First Search - Tìm kiếm theo chiều sâu):** Đi sâu hết mức có thể vào một nhánh trước khi quay lui. Rất hợp với các bài toán mê cung hoặc kiểm tra tính liên thông.
+```python title:DFS.py
+def dfs(graph, node, visited=None):
+    if visited is None:
+        visited = set()
+    
+    visited.add(node)
+    result = [node]
+    
+    # Đi sâu vào từng hàng xóm
+    for neighbor in graph[node]:
+        if neighbor not in visited:
+            # Đệ quy gọi lại chính nó
+            result.extend(dfs(graph, neighbor, visited))
+            
+    return result
+```
+
 ---
 <h2><center>Một số mẫu code</center></h2>
