@@ -127,6 +127,9 @@ def binary_search(arr, target):
     return -1
 ```
 ---
+##### 3. Jump search ($O(log(n))$)
+
+---
 ### <font color="#ff0000">Recursion</font>
 1. Backtracking (Quay lui):
 
