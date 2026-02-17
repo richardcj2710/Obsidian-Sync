@@ -262,7 +262,7 @@ def greedy_coin_change(amount, coins):
 # Kết quả: [25, 25, 10, 1, 1, 1]
 ```
 ---
-### Thuật toán BFS & DFS (Duyện đồ thị/Cây)
+### Thuật toán BFS & DFS (Duyệt đồ thị/Cây)
 
 Đây là hai cách cơ bản để "đi dạo" qua tất cả các đỉnh của một cấu trúc dữ liệu mạng lưới hoặc cây thư mục.
 
