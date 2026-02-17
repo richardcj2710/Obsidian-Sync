@@ -274,7 +274,7 @@ def bfs(graph, start_node):
 	visited = set()       # Lưu các nút đã đi qua
 	queue = deque([start_node])    # Hàng đợi để duyệt (LIFO)
 	visited.add(start_node)
-	
+	ư
 	result = []
 	
 	while queue:
