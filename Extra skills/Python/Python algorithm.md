@@ -241,7 +241,7 @@ def binary_search(arr, target):
 	print(fib_tab(50))
 	```
 ---
-### Thuật toán tham lam (Greedy)
+### <font color="#ff0000">Thuật toán tham lam (Greedy)</font>
 1. Tham lam không phải là một thuật toán đơn lẻ mà là một **chiến thuật**: Tại mỗi bước, bạn chọn lựa chọn tốt nhất ngay lúc đó với hy vọng sẽ dẫn đến kết quả tối ưu toàn cục.
 	- **Ví dụ:** Bài toán thối tiền lẻ (Coin Change) với các mệnh giá phổ biến.
 	- **Ưu điểm:** Cực nhanh và đơn giản.
@@ -262,7 +262,7 @@ def greedy_coin_change(amount, coins):
 # Kết quả: [25, 25, 10, 1, 1, 1]
 ```
 ---
-### Thuật toán BFS & DFS (Duyệt đồ thị/Cây)
+### <font color="#ff0000">Thuật toán BFS & DFS (Duyệt đồ thị/Cây)</font>
 
 Đây là hai cách cơ bản để "đi dạo" qua tất cả các đỉnh của một cấu trúc dữ liệu mạng lưới hoặc cây thư mục.
 
