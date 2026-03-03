@@ -308,6 +308,3 @@ def dfs(graph, node, visited=None):
             
     return result
 ```
-
----
-<h2><center>Một số mẫu code</center></h2>
