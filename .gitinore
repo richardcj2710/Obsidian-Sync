@@ -1,0 +1,7 @@
+# Ignore resource files
+Second_Brain/Resources/
+
+# Ignore large file types
+*.webm
+*.zip
+*.pdf

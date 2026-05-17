@@ -4,3 +4,7 @@ resemble = look like/ be similar to/ share features with -> tương đồng, có
 sediment -> trầm tích, cặn lắng | material at the bottom/particles |
 predominantly: có tiền tố pre tức vượt trội hơn, hậu tố dominantly thống trị, chiếm hơn. -> Chiếm phần lớn (proportion)
 edible
+
+
+---
+[[IETLS]]

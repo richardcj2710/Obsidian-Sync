@@ -18,7 +18,7 @@
 ________________________________________________________________________
 # Lập trình
 
-```
+```python
 s = int(input()) # nhập số
 s1 = input()     # kết quả sẽ là một xâu "<string>"
 """
@@ -43,7 +43,7 @@ print(::-2) # đảo ngược chuỗi
 
 
 # Các hàm
-```
+```python
 len() # đếm độ dài hàm
 <str>.count("<entry>,<vị trí đầu trong chuỗi>, <vị trí cuối>")
 	-> 
@@ -62,7 +62,7 @@ a,b = map(int/float, input().split())
 ```
 
 # Cách duyệt
-```
+```python
 s = 'python'
 # cách 1
 d = 0
@@ -76,3 +76,7 @@ for i in range(len(s)):
 	print(i)
 	if s[i] = 'o' : d += 1
 ```
+
+
+---
+Link with: [[Python algorithm]]

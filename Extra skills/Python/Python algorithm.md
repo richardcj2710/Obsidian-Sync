@@ -264,9 +264,9 @@ def greedy_coin_change(amount, coins):
 ---
 ### <font color="#ff0000">Thuật toán BFS & DFS (Duyệt đồ thị/Cây)</font>
 
-Đây là hai cách cơ bản để "đi dạo" qua tất cả các đỉnh của một cấu trúc dữ liệu mạng lưới hoặc cây thư mục.
+Đây là hai cách cơ bản để =="đi dạo"== qua tất cả các đỉnh của một cấu trúc dữ liệu mạng lưới hoặc cây thư mục.
 
-- **BFS (Breadth-First Search - Tìm kiếm theo chiều rộng):** Đi theo từng lớp (như sóng nước lan tỏa). Dùng để tìm đường đi ngắn nhất trong đồ thị không trọng số.
+- **BFS (Breadth-First Search - Tìm kiếm theo chiều rộng):** Đi theo từng lớp (như sóng nước lan tỏa). Dùng để ==tìm đường đi ngắn nhất== trong đồ thị không trọng số.
 ```python title:BFS(Tìm kiếm theo chiều rộng).py
 from collections import deque
 
@@ -274,7 +274,6 @@ def bfs(graph, start_node):
 	visited = set()       # Lưu các nút đã đi qua
 	queue = deque([start_node])    # Hàng đợi để duyệt (LIFO)
 	visited.add(start_node)
-	ư
 	result = []
 	
 	while queue:
