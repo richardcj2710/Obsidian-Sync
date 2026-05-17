@@ -318,28 +318,26 @@ def dfs(graph, node, visited=None):
 	 c. Code Opposite direction
 	```python title:Twopointer_oppdir.py
 	# Cho một array đã sort
-arr = [1, 2, 3, 4, 5, 6]
-target = 6
-	# Ta dùng left ở đầu và right ở cuối
-def two_sum_sorted(arr, target):
-    left = 0
-    right = len(arr) - 1
-
-    while left < right:
-        current = arr[left] + arr[right]
-
-        if current == target:
-            return [left, right]
-
-        elif current < target:
-            left += 1
-
-        else:
-            right -= 1
-
-    return -1
+	arr = [1, 2, 3, 4, 5, 6]
+	target = 6
+		# Ta dùng left ở đầu và right ở cuối
+	def two_sum_sorted(arr, target):
+	    left = 0
+	    right = len(arr) - 1
+	
+	    while left < right:
+	        current = arr[left] + arr[right]
+	
+	        if current == target:
+	            return [left, right]
+	
+	        elif current < target:
+	            left += 1
+	
+	        else:
+	            right -= 1
+	
+	    return -1
 	```
-	 
-	 d. Code Sliding window (cửa sổ trượt)
 1. Prefix sum
 2. Hash map
