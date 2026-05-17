@@ -310,12 +310,13 @@ def dfs(graph, node, visited=None):
 ---
 ### <font color="#ff0000">Array / String</font>
 1. Two Pointers (2 con trỏ):
-	a. Mục đích :   - giảm complexity từ $O(n^2)→O(n)$
-			    - xử lý array/string hiệu quả
-	b. Có 2 kiểu của 2 con trỏ:  
+	1. Mục đích :  
+		 - giảm complexity từ $O(n^2)→O(n)$
+		 - xử lý array/string hiệu quả
+	2. Có 2 kiểu của 2 con trỏ:  
 		1. opposite direction
 		2. same direction (sliding window)
-	 c. Code Opposite direction
+	3. Code Opposite direction
 	```python title:Twopointer_oppdir.py
 	# Cho một array đã sort
 	arr = [1, 2, 3, 4, 5, 6]
@@ -339,5 +340,5 @@ def dfs(graph, node, visited=None):
 	
 	    return -1
 	```
-1. Prefix sum
-2. Hash map
+2. Prefix sum
+3. Hash map
