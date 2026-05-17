@@ -339,6 +339,7 @@ def two_sum_sorted(arr, target):
 
     return -1
 	```
+	 
 	 d. Code Sliding window (cửa sổ trượt)
 1. Prefix sum
 2. Hash map
