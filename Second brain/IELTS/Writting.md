@@ -4,7 +4,7 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
-TTLL Giải thích, giải thích vấn đề làm rõ các khái niệm liên quan dến vấn dền nghị luận
+TTLL Giải thích, giải thích vấn đề làm rõ [[Second_Brain/Extra skills/Python/Python algorithm|các khái niệm liên]] quan dến vấn dền nghị luận
 Phân tích 
 CHứng Minh 
 Bình luận : -> So sánh -> phên phán

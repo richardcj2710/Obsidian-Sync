@@ -13,10 +13,10 @@
 
 - mingle with: giao lưu với
 - spend time      | on N | V_ing
-- geography = geographic information
+- [[Resources/AI6126 - Advanced Computer Vision/README|geography = geographic information]]
 - there was this one time that: Có một lần là (quá khứ)
 - remind someone of something
-- compulsory : bắt buộc → compulsory subject : môn học bắt buộc
+- compulsory : bắt buộc → [[Second_Brain/Second brain/THPTQG/Tin Học|compulsory subject : môn học]] bắt buộc
 - scrape through sth : vừa đủ để qua (qua môn hoặc sth like that)
 - tipping point: thời điểm quan trọng
 - take my first foot step in 

@@ -13,7 +13,7 @@
 **IP/ MAC**
 
 	IP chỉ là duy nhất khi nó tham gia tại thời điểm đó
-	MAC là luôn luôn duy nhất để gán cho các bộ giao tiếp mạng
+	MAC là luôn luôn duy [[Second_Brain/Second brain/Course/Mathematics/Toán|nhất để gán cho các]] bộ giao tiếp mạng
 
 ________________________________________________________________________
 # Lập trình

@@ -8,7 +8,7 @@ Ma trận $A$ cấp $m \times n$ là một bảng gồm $m \cdot n$ số $a_{ij}
 
 ### 1.2. Các Phép Toán Cơ Bản
 
-|Phép toán|Công thức/Quy tắc quan trọng|Điều kiện thực hiện|
+|Phép [[Toán]]|Công thức/[[Second_Brain/Second brain/IELTS/Writting|Quy tắc quan trọng]]|[[Second_Brain/Second brain/Học tiếng anh|Điều kiện thực hiện]]|
 |:--|:--|:--|
 |**Cộng** (Addition)|$A + B = [c_{ij}]_{m \times n}$, với $c_{ij} = a_{ij} + b_{ij}$.|$A$ và $B$ phải cùng cấp $m \times n$.|
 |**Nhân với số** (Scalar Multiplication)|$\alpha A = [b_{ij}]_{m \times n}$, với $b_{ij} = \alpha \cdot a_{ij}$.|Không có điều kiện cấp, $\alpha$ là số thực.|

@@ -5,7 +5,7 @@
   
 
 1. Đọc điều ngắn (12 câu - 2 passages) -> qcao, thư, tờ rơi
-2. Hội thoại, lá thư, đoạn văn (5 câu)
+2. Hội thoại, lá thư, [[Second_Brain/Second brain/CLB/CLB Tin hoc|đoạn văn (5 câu]])
 3. Đọc điền dài (5 câu)
 4. Đọc hiểu dài (8 câu) 
 5. Đọc hiểu dài số 2 (10 câu) 
@@ -14,9 +14,9 @@
 
   
 
-Động từ want (hiện tại) 
+Động [[Second_Brain/Second brain/CLB/Bồi dưỡng|từ want (hiện tại]]) 
 
-2 (are easy -> một thực tế, hiện tại đơn
+2 (are [[Second_Brain/Extra skills/Python/Python algorithm|easy -> một thực tế]], hiện tại đơn
 ```
 to inf / Gerund
 ```
